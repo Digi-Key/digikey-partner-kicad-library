@@ -1,0 +1,183 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMC248-LA_NonStock
+D IC MTR DRVR BIPOLAR 3-5.5V 28QFN
+K 1460-1040-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC248_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC389-LA
+D IC MTR DRV MULTPHAS 3.3-5V 32QFN
+K 1460-1045-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC389_Datasheet.pdf
+$ENDCMP
+#
+$CMP TMC5031-LA
+D IC MTR DRVR BIPOLAR 3.3-5V 48QFN
+K 1460-1049-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC5031_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC603A-LA
+D IC MOTOR DRIVER 3.3V-5V 52QFN
+K 1460-1050-ND 
+F https://www.trinamic.com/_scripts/download.php?file=_articles%2Fproducts%2Fintegrated-circuits%2Ftmc603%2F_datasheet%2FTMC603A_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC239A-SA
+D IC MTR DRV BIPLR 3.3-5.5V 28SOIC
+K 1460-1055-5-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC239_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC249A-SA
+D IC MTR DRV BIPLR 3.3-5.5V 28SOIC
+K 1460-10565-5-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC249_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC2660-PA-T
+D IC MTR DRV BIPOLAR 3.3-5V 44PQFP
+K 1460-1062-1-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2660_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC4210-I-T
+D IC MTR DRV BIPOLAR 3.3-5V 16SSOP
+K 1460-1063-1-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC4210_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC262-LA-T
+D IC MTR DRVR BIPLR 3.3-5.5V 32QFN
+K 1460-1069-1-ND 
+F https://www.trinamic.com/_scripts/download.php?file=_articles%2Fproducts%2Fintegrated-circuits%2Ftmc262%2F_datasheet%2FTMC262_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC429-LI-T
+D IC MTR DRVR BIPOLAR 3.3-5V 32QFN
+K 1460-1071-1-ND 
+F https://www.trinamic.com/_scripts/download.php?file=_articles%2Fproducts%2Fintegrated-circuits%2Ftmc429%2F_datasheet%2FTMC429_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC5062-LA-T
+D IC MTR DRVR BIPLR 3.3-5.5V 48QFN
+K 1460-1095-1-ND 
+F https://www.trinamic.com/_scripts/download.php?file=_articles%2Fproducts%2Fintegrated-circuits%2Ftmc5062%2F_datasheet%2FTMC5062_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC5130A-TA-T
+D IC MTR DRV BIPOLAR 5.5-46V 48QFP
+K 1460-1126-1-ND 
+F https://www.trinamic.com/_scripts/download.php?file=_articles%2Fproducts%2Fintegrated-circuits%2Ftmc5130%2F_datasheet%2FTMC5130_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC261-PA-T
+D IC MTR DRV BIPOLAR 3-5.25V 44QFP
+K 1460-1127-1-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC260_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC2100-LA-T
+D IC MTR DRV BIPOLAR 5.5-46V 36QFN
+K 1460-1128-1-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2100_datasheet_Rev1.09.pdf
+$ENDCMP
+#
+$CMP TMC2130-LA-T
+D IC MTR DRV BIPOLAR 5.5-46V 36QFN
+K 1460-1130-1-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2130_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC6130-LA-T_NonStock
+D IC MOTOR DRIVER 3V-5.5V 32QFN
+K 1460-1136-2-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC6130_datasheet_Rev1.01.pdf
+$ENDCMP
+#
+$CMP TMC5041-LA-T
+D IC MTR DRV BIPOLAR 5.5-26V 48QFN
+K 1460-1141-1-ND 
+F https://www.trinamic.com/_scripts/download.php?file=_articles%2Fproducts%2Fintegrated-circuits%2Ftmc5041%2F_datasheet%2FTMC5041_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC5072-LA-T
+D IC MTR DRV BIPOLAR 5.5-26V 48QFN
+K 1460-1142-1-ND 
+F https://www.trinamic.com/_scripts/download.php?file=_articles%2Fproducts%2Fintegrated-circuits%2Ftmc5072%2F_datasheet%2FTMC5072_datasheet.pdf
+$ENDCMP
+#
+$CMP TMCC160-LC
+D IC MOTOR DRIVER 3.3V 51LGA
+K 1460-1156-ND motionCookie™
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMCC160_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC260A-PA
+D IC MTR DRV BIPOLAR 3-5.25V 44QFP
+K 1460-1173-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC260_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC246B-PA
+D IC MTR DRVR BIPOLAR 3-5.5V 44QFP
+K 1460-1174-ND stallGuard™
+F https://www.trinamic.com/_scripts/download.php?file=_articles%2Fproducts%2Fintegrated-circuits%2Ftmc246%2F_datasheet%2FTMC246_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC4361A-LA
+D IC MOTOR DRIVER 3.3V/5V 40QFN
+K 1460-1176-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC4361A-LA_datasheet_Rev1.22.pdf
+$ENDCMP
+#
+$CMP TMC2208-LA-T
+D IC MTR DRV BIPOLAR 5.5-36V 28QFN
+K 1460-1184-1-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC222x_datasheet_Rev1.05.pdf
+$ENDCMP
+#
+$CMP TMC2130-TA-T
+D IC MTR DRV BIPOLAR 5.5-46V 48QFP
+K 1460-1186-1-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2130_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC2041-LA-T
+D IC MTR DRV BIPOLAR 3-5.25V 48QFN
+K 1460-1228-1-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2041_datasheet.pdf
+$ENDCMP
+#
+$CMP TMC4330A-LA
+D IC MOTOR DRIVER 3.3V/5.5V 32QFN
+K 1460-1236-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC4330A-LA_datasheet_V100_2016_NOV_25.pdf
+$ENDCMP
+#
+$CMP TMC4331A-LA
+D IC MOTOR DRIVER 32QFN
+K 1460-1237-ND *
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC4331A-LA_datasheet_V101_2016_NOV_25.pdf
+$ENDCMP
+#
+$CMP TMC5160-TA
+D IC MTR DRVR BIPOLAR 8-60V 48TQFP
+K 1460-1249-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC5160_Datasheet_V1.01.pdf
+$ENDCMP
+#
+$CMP TMC5160-WA
+D IC MTR DRVR BIPOLAR 8-60V 48QFN
+K 1460-1273-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC5160_Datasheet_V1.03.pdf
+$ENDCMP
+#
+$CMP TMC4671-ES
+D IC MOTOR DRIVER MULTIPHASE 76QFN
+K 1460-1302-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC4671_datasheet_v1.03.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,30 @@
+img {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+}
+
+.datasheet {
+    height: 20px;
+    width: 20px;
+}
+
+.symbol {
+    height: 100px;
+    width: 100px;
+}
+
+.page-format {
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+div.imgTooltip {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    background-color: white;
+}

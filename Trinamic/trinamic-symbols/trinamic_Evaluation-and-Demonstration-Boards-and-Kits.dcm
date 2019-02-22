@@ -1,0 +1,81 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMC2041-BOB
+D BREAKOUTBOARD WITH TMC2041
+K 1460-1240-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/Eval_Documents/TMC2041-BOB_datasheet_Rev1.0.pdf
+$ENDCMP
+#
+$CMP TMC261-BOB
+D BREAKOUTBOARD WITH TMC261
+K 1460-1241-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/Eval_Documents/TMC261-BOB_datasheet_Rev1.0.pdf
+$ENDCMP
+#
+$CMP TMC262-BOB30
+D BREAKOUTBOARD WITH TMC262
+K 1460-1242-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/Eval_Documents/TMC262_BOB30_datasheet_V11.pdf
+$ENDCMP
+#
+$CMP TMC262-BOB40
+D BREAKOUTBOARD WITH TMC262
+K 1460-1243-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC262_Datasheet.pdf
+$ENDCMP
+#
+$CMP TMC262-BOB60
+D BREAKOUTBOARD WITH TMC262
+K 1460-1244-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC262_Datasheet.pdf
+$ENDCMP
+#
+$CMP TMC2660-BOB
+D BREAKOUTBOARD WITH TMC2660
+K 1460-1245-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/Eval_Documents/TMC2660-BOB_datasheet_Rev1.0.pdf
+$ENDCMP
+#
+$CMP TMC5041-BOB
+D BREAKOUTBOARD WITH TMC5041
+K 1460-1246-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/Eval_Documents/TMC5041-BOB_datasheet_Rev1.0.pdf
+$ENDCMP
+#
+$CMP TMC5072-BOB
+D BREAKOUTBOARD WITH TMC5072
+K 1460-1247-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/Eval_Documents/TMC5072-BOB_datasheet_Rev1.0.pdf
+$ENDCMP
+#
+$CMP TMC5130A-BOB
+D BREAKOUTBOARD WITH TMC5130A
+K 1460-1248-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/Eval_Documents/TMC5130A-BOB_datasheet_Rev1.0.pdf
+$ENDCMP
+#
+$CMP TMC5160-BOB
+D BREAKOUTBOARD WITH TMC5160
+K 1460-1250-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/Eval_Documents/TMC5160-BOB_datasheet_Rev1.0.pdf
+$ENDCMP
+#
+$CMP TMC4361A-BOB
+D BREAKOUTBOARD WITH TMC4361A
+K 1460-1256-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/Eval_Documents/TMC4361A-BOB_datasheet_Rev1.0.pdf
+$ENDCMP
+#
+$CMP TMC8462-BOB-ETH
+D BREAKOUTBOARD FOR TMC8462
+K 1460-1274-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/Eval_Documents/TMC8462-BOB-ETH_datasheet_Rev1.2.pdf
+$ENDCMP
+#
+$CMP TMC4671-BOB
+D BREAKOUTBOARD FOR TMC4671
+K 1460-1317-ND 
+F https://www.trinamic.com/fileadmin/assets/Products/Eval_Documents/TMC4671-BOB_datasheet_Rev1.0.pdf
+$ENDCMP
+#
+#End Doc Library

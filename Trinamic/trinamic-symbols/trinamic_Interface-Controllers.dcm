@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMC8461-BA
+D ETHERCAT SLAVE CONTROLLER
+K 1460-1257-ND EtherCAT®
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC8461_datasheet_V1.2.pdf
+$ENDCMP
+#
+$CMP TMC8462-BA
+D ETHERCAT SLAVE CONTROLLER
+K 1460-1258-ND EtherCAT®
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC8462_datasheet_Rev1.1_prelim_20171220.pdf
+$ENDCMP
+#
+#End Doc Library
