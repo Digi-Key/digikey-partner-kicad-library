@@ -1,7 +1,7 @@
 Digi-Key Partner Kicad Library Revision History
 
-Date:   Fri Feb 22 16:15:10 2019 +0000
-commit c136bb627625e25cd46ec94c6dd02b62525c1ec7
+Date:   Fri Feb 22 14:56:27 2019 -0600
+commit 4343d65eba01b48c70cc52140c45293906c12aff
 
 - Symbols Added
 	- trinamic_PMIC-Motor-Drivers-Controllers/TMC248-LA  <-  Trinamic/src/Source_Symbols/1460-1040-ND.lib
