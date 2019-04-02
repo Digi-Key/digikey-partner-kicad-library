@@ -4,98 +4,75 @@ Date:   Fri Feb 22 14:56:27 2019 -0600
 commit 4343d65eba01b48c70cc52140c45293906c12aff
 
 - Symbols Added
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC248-LA  <-  Trinamic/src/Source_Symbols/1460-1040-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC389-LA  <-  Trinamic/src/Source_Symbols/1460-1045-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC5031-LA  <-  Trinamic/src/Source_Symbols/1460-1049-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC603A-LA  <-  Trinamic/src/Source_Symbols/1460-1050-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC239A-SA  <-  Trinamic/src/Source_Symbols/1460-1055-5-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC249A-SA  <-  Trinamic/src/Source_Symbols/1460-10565-5-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC2660-PA-T  <-  Trinamic/src/Source_Symbols/1460-1062-1-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC4210-I-T  <-  Trinamic/src/Source_Symbols/1460-1063-1-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC262-LA-T  <-  Trinamic/src/Source_Symbols/1460-1069-1-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC429-LI-T  <-  Trinamic/src/Source_Symbols/1460-1071-1-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC5062-LA-T  <-  Trinamic/src/Source_Symbols/1460-1095-1-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC5130A-TA-T  <-  Trinamic/src/Source_Symbols/1460-1126-1-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC261-PA-T  <-  Trinamic/src/Source_Symbols/1460-1127-1-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC2100-LA-T  <-  Trinamic/src/Source_Symbols/1460-1128-1-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC2130-LA-T  <-  Trinamic/src/Source_Symbols/1460-1130-1-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC6130-LA-T  <-  Trinamic/src/Source_Symbols/1460-1136-2-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC5041-LA-T  <-  Trinamic/src/Source_Symbols/1460-1141-1-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC5072-LA-T  <-  Trinamic/src/Source_Symbols/1460-1142-1-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMCC160-LC  <-  Trinamic/src/Source_Symbols/1460-1156-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC260A-PA  <-  Trinamic/src/Source_Symbols/1460-1173-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC246B-PA  <-  Trinamic/src/Source_Symbols/1460-1174-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC4361A-LA  <-  Trinamic/src/Source_Symbols/1460-1176-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC2208-LA-T  <-  Trinamic/src/Source_Symbols/1460-1184-1-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC2130-TA-T  <-  Trinamic/src/Source_Symbols/1460-1186-1-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC2041-LA-T  <-  Trinamic/src/Source_Symbols/1460-1228-1-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC4330A-LA  <-  Trinamic/src/Source_Symbols/1460-1236-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC4331A-LA  <-  Trinamic/src/Source_Symbols/1460-1237-ND.lib
-	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC2041-BOB  <-  Trinamic/src/Source_Symbols/1460-1240-ND.lib
-	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC261-BOB  <-  Trinamic/src/Source_Symbols/1460-1241-ND.lib
-	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC262-BOB30  <-  Trinamic/src/Source_Symbols/1460-1242-ND.lib
-	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC262-BOB40  <-  Trinamic/src/Source_Symbols/1460-1243-ND.lib
-	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC262-BOB60  <-  Trinamic/src/Source_Symbols/1460-1244-ND.lib
-	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC2660-BOB  <-  Trinamic/src/Source_Symbols/1460-1245-ND.lib
-	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC5041-BOB  <-  Trinamic/src/Source_Symbols/1460-1246-ND.lib
-	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC5072-BOB  <-  Trinamic/src/Source_Symbols/1460-1247-ND.lib
-	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC5130A-BOB  <-  Trinamic/src/Source_Symbols/1460-1248-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC5160-TA  <-  Trinamic/src/Source_Symbols/1460-1249-ND.lib
-	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC5160-BOB  <-  Trinamic/src/Source_Symbols/1460-1250-ND.lib
-	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC4361A-BOB  <-  Trinamic/src/Source_Symbols/1460-1256-ND.lib
-	- trinamic_Interface-Controllers/TMC8461-BA  <-  Trinamic/src/Source_Symbols/1460-1257-ND.lib
-	- trinamic_Interface-Controllers/TMC8462-BA  <-  Trinamic/src/Source_Symbols/1460-1258-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC5160-WA  <-  Trinamic/src/Source_Symbols/1460-1273-ND.lib
-	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC8462-BOB-ETH  <-  Trinamic/src/Source_Symbols/1460-1274-ND.lib
-	- trinamic_PMIC-Motor-Drivers-Controllers/TMC4671-ES  <-  Trinamic/src/Source_Symbols/1460-1302-ND.lib
-	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC4671-BOB  <-  Trinamic/src/Source_Symbols/1460-1317-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC248-LA  <-  Trinamic\src\Source_Symbols\1460-1040-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC389-LA  <-  Trinamic\src\Source_Symbols\1460-1045-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC5031-LA  <-  Trinamic\src\Source_Symbols\1460-1049-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC603A-LA  <-  Trinamic\src\Source_Symbols\1460-1050-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC239A-SA  <-  Trinamic\src\Source_Symbols\1460-1055-5-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC249A-SA  <-  Trinamic\src\Source_Symbols\1460-10565-5-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC2660-PA-T  <-  Trinamic\src\Source_Symbols\1460-1062-1-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC4210-I-T  <-  Trinamic\src\Source_Symbols\1460-1063-1-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC262-LA-T  <-  Trinamic\src\Source_Symbols\1460-1069-1-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC429-LI-T  <-  Trinamic\src\Source_Symbols\1460-1071-1-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC5062-LA-T  <-  Trinamic\src\Source_Symbols\1460-1095-1-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC5130A-TA-T  <-  Trinamic\src\Source_Symbols\1460-1126-1-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC261-PA-T  <-  Trinamic\src\Source_Symbols\1460-1127-1-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC2100-LA-T  <-  Trinamic\src\Source_Symbols\1460-1128-1-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC2130-LA-T  <-  Trinamic\src\Source_Symbols\1460-1130-1-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC6130-LA-T  <-  Trinamic\src\Source_Symbols\1460-1136-2-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC5041-LA-T  <-  Trinamic\src\Source_Symbols\1460-1141-1-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC5072-LA-T  <-  Trinamic\src\Source_Symbols\1460-1142-1-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMCC160-LC  <-  Trinamic\src\Source_Symbols\1460-1156-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC260A-PA  <-  Trinamic\src\Source_Symbols\1460-1173-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC246B-PA  <-  Trinamic\src\Source_Symbols\1460-1174-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC4361A-LA  <-  Trinamic\src\Source_Symbols\1460-1176-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC2208-LA-T  <-  Trinamic\src\Source_Symbols\1460-1184-1-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC2130-TA-T  <-  Trinamic\src\Source_Symbols\1460-1186-1-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC2041-LA-T  <-  Trinamic\src\Source_Symbols\1460-1228-1-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC4330A-LA  <-  Trinamic\src\Source_Symbols\1460-1236-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC4331A-LA  <-  Trinamic\src\Source_Symbols\1460-1237-ND.lib
+	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC2041-BOB  <-  Trinamic\src\Source_Symbols\1460-1240-ND.lib
+	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC261-BOB  <-  Trinamic\src\Source_Symbols\1460-1241-ND.lib
+	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC262-BOB30  <-  Trinamic\src\Source_Symbols\1460-1242-ND.lib
+	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC262-BOB40  <-  Trinamic\src\Source_Symbols\1460-1243-ND.lib
+	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC262-BOB60  <-  Trinamic\src\Source_Symbols\1460-1244-ND.lib
+	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC2660-BOB  <-  Trinamic\src\Source_Symbols\1460-1245-ND.lib
+	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC5041-BOB  <-  Trinamic\src\Source_Symbols\1460-1246-ND.lib
+	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC5072-BOB  <-  Trinamic\src\Source_Symbols\1460-1247-ND.lib
+	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC5130A-BOB  <-  Trinamic\src\Source_Symbols\1460-1248-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC5160-TA  <-  Trinamic\src\Source_Symbols\1460-1249-ND.lib
+	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC5160-BOB  <-  Trinamic\src\Source_Symbols\1460-1250-ND.lib
+	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC4361A-BOB  <-  Trinamic\src\Source_Symbols\1460-1256-ND.lib
+	- trinamic_Interface-Controllers/TMC8461-BA  <-  Trinamic\src\Source_Symbols\1460-1257-ND.lib
+	- trinamic_Interface-Controllers/TMC8462-BA  <-  Trinamic\src\Source_Symbols\1460-1258-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC5160-WA  <-  Trinamic\src\Source_Symbols\1460-1273-ND.lib
+	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC8462-BOB-ETH  <-  Trinamic\src\Source_Symbols\1460-1274-ND.lib
+	- trinamic_PMIC-Motor-Drivers-Controllers/TMC4671-ES  <-  Trinamic\src\Source_Symbols\1460-1302-ND.lib
+	- trinamic_Evaluation-and-Demonstration-Boards-and-Kits/TMC4671-BOB  <-  Trinamic\src\Source_Symbols\1460-1317-ND.lib
 
 - Footprints Added
-	- Trinamic/src/Source_Footprints/20pin1,5x1-BOB.kicad_mod
-	- Trinamic/src/Source_Footprints/22pin1,5x1,1-BOB.kicad_mod
-	- Trinamic/src/Source_Footprints/22pin1x1,1-BOB.kicad_mod
-	- Trinamic/src/Source_Footprints/24pin1,5x1,2-BOB.kicad_mod
-	- Trinamic/src/Source_Footprints/28pin1x1,4-BOB.kicad_mod
-	- Trinamic/src/Source_Footprints/28pin2x1,5-BOB.kicad_mod
-	- Trinamic/src/Source_Footprints/30pin1x1,5-BOB.kicad_mod
-	- Trinamic/src/Source_Footprints/32pin1,5x1,6-BOB.kicad_mod
-	- Trinamic/src/Source_Footprints/BGA121.kicad_mod
-	- Trinamic/src/Source_Footprints/BGA144.kicad_mod
-	- Trinamic/src/Source_Footprints/LGA51.kicad_mod
-	- Trinamic/src/Source_Footprints/QFN28P.kicad_mod
-	- Trinamic/src/Source_Footprints/QFN32P-4x4mm.kicad_mod
-	- Trinamic/src/Source_Footprints/QFN32P-5x5mm.kicad_mod
-	- Trinamic/src/Source_Footprints/QFN36P.kicad_mod
-	- Trinamic/src/Source_Footprints/QFN40P.kicad_mod
-	- Trinamic/src/Source_Footprints/QFN48P.kicad_mod
-	- Trinamic/src/Source_Footprints/QFN52-8x8mm.kicad_mod
-	- Trinamic/src/Source_Footprints/QFN56P-alt.kicad_mod
-	- Trinamic/src/Source_Footprints/QFN76P.kicad_mod
-	- Trinamic/src/Source_Footprints/QFP44.kicad_mod
-	- Trinamic/src/Source_Footprints/SO28.kicad_mod
-	- Trinamic/src/Source_Footprints/SSOP16.kicad_mod
-	- Trinamic/src/Source_Footprints/eTQFP48.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/20pin1,5x1-BOB.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/22pin1,5x1,1-BOB.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/22pin1x1,1-BOB.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/24pin1,5x1,2-BOB.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/28pin1x1,4-BOB.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/28pin2x1,5-BOB.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/30pin1x1,5-BOB.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/32pin1,5x1,6-BOB.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/BGA121.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/BGA144.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/LGA51.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/QFN28P.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/QFN32P-4x4mm.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/QFN32P-5x5mm.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/QFN36P.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/QFN40P.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/QFN48P.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/QFN52-8x8mm.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/QFN56P-alt.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/QFN76P.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/QFP44.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/SO28.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/SSOP16.kicad_mod
-	- Trinamic/trinamic-footprints.pretty/eTQFP48.kicad_mod
+	- trinamic-footprints.pretty/20pin1,5x1-BOB  <-  Trinamic\src\Source_Footprints\20pin1,5x1-BOB.kicad_mod
+	- trinamic-footprints.pretty/22pin1,5x1,1-BOB  <-  Trinamic\src\Source_Footprints\22pin1,5x1,1-BOB.kicad_mod
+	- trinamic-footprints.pretty/22pin1x1,1-BOB  <-  Trinamic\src\Source_Footprints\22pin1x1,1-BOB.kicad_mod
+	- trinamic-footprints.pretty/24pin1,5x1,2-BOB  <-  Trinamic\src\Source_Footprints\24pin1,5x1,2-BOB.kicad_mod
+	- trinamic-footprints.pretty/28pin1x1,4-BOB  <-  Trinamic\src\Source_Footprints\28pin1x1,4-BOB.kicad_mod
+	- trinamic-footprints.pretty/28pin2x1,5-BOB  <-  Trinamic\src\Source_Footprints\28pin2x1,5-BOB.kicad_mod
+	- trinamic-footprints.pretty/30pin1x1,5-BOB  <-  Trinamic\src\Source_Footprints\30pin1x1,5-BOB.kicad_mod
+	- trinamic-footprints.pretty/32pin1,5x1,6-BOB  <-  Trinamic\src\Source_Footprints\32pin1,5x1,6-BOB.kicad_mod
+	- trinamic-footprints.pretty/BGA121  <-  Trinamic\src\Source_Footprints\BGA121.kicad_mod
+	- trinamic-footprints.pretty/BGA144  <-  Trinamic\src\Source_Footprints\BGA144.kicad_mod
+	- trinamic-footprints.pretty/LGA51  <-  Trinamic\src\Source_Footprints\LGA51.kicad_mod
+	- trinamic-footprints.pretty/QFN28P  <-  Trinamic\src\Source_Footprints\QFN28P.kicad_mod
+	- trinamic-footprints.pretty/QFN32P-4x4mm  <-  Trinamic\src\Source_Footprints\QFN32P-4x4mm.kicad_mod
+	- trinamic-footprints.pretty/QFN32P-5x5mm  <-  Trinamic\src\Source_Footprints\QFN32P-5x5mm.kicad_mod
+	- trinamic-footprints.pretty/QFN36P  <-  Trinamic\src\Source_Footprints\QFN36P.kicad_mod
+	- trinamic-footprints.pretty/QFN40P  <-  Trinamic\src\Source_Footprints\QFN40P.kicad_mod
+	- trinamic-footprints.pretty/QFN48P  <-  Trinamic\src\Source_Footprints\QFN48P.kicad_mod
+	- trinamic-footprints.pretty/QFN52-8x8mm  <-  Trinamic\src\Source_Footprints\QFN52-8x8mm.kicad_mod
+	- trinamic-footprints.pretty/QFN56P-alt  <-  Trinamic\src\Source_Footprints\QFN56P-alt.kicad_mod
+	- trinamic-footprints.pretty/QFN76P  <-  Trinamic\src\Source_Footprints\QFN76P.kicad_mod
+	- trinamic-footprints.pretty/QFP44  <-  Trinamic\src\Source_Footprints\QFP44.kicad_mod
+	- trinamic-footprints.pretty/SO28  <-  Trinamic\src\Source_Footprints\SO28.kicad_mod
+	- trinamic-footprints.pretty/SSOP16  <-  Trinamic\src\Source_Footprints\SSOP16.kicad_mod
+	- trinamic-footprints.pretty/eTQFP48  <-  Trinamic\src\Source_Footprints\eTQFP48.kicad_mod
+
