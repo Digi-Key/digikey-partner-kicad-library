@@ -1,9 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP TMC248-LA_NonStock
+$CMP TMC248-LA_LTB
 D IC MTR DRVR BIPOLAR 3-5.5V 28QFN
 K 1460-1040-ND 
-F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC248_datasheet.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/Trinamic%20Motion%20Control%20PDFs/TMC248_Rev1.01_Mar26,2013.pdf
 $ENDCMP
 #
 $CMP TMC389-LA
@@ -158,7 +158,7 @@ $ENDCMP
 #
 $CMP TMC4331A-LA
 D IC MOTOR DRIVER 32QFN
-K 1460-1237-ND *
+K 1460-1237-ND 
 F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC4331A-LA_datasheet_V101_2016_NOV_25.pdf
 $ENDCMP
 #
@@ -219,7 +219,7 @@ $ENDCMP
 $CMP TMC5160-TA
 D IC MTR DRVR BIPOLAR 8-60V 48TQFP
 K 1460-1249-ND 
-F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC5160_Datasheet_V1.01.pdf
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC5160_Datasheet_Rev1.06.pdf
 $ENDCMP
 #
 $CMP TMC5160-BOB

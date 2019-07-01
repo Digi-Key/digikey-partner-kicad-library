@@ -1,22 +1,22 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# TMC248-LA_NonStock
+# TMC248-LA_LTB
 #
-DEF TMC248-LA_NonStock IC 0 40 Y Y 1 F N
+DEF TMC248-LA_LTB IC 0 40 Y Y 1 F N
 F0 "U" 0 -50 40 H V C C N N
-F1 "TMC248-LA_NonStock" 0 50 40 H V C C N N
+F1 "TMC248-LA_LTB" 0 50 40 H V C C N N
 F2 "trinamic-footprints:QFN28P" 850 200 40 H I L C N N
-F3 "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC248_datasheet.pdf" 850 300 40 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Trinamic%20Motion%20Control%20PDFs/TMC248_Rev1.01_Mar26,2013.pdf" 850 300 40 H I L C N N
 F4 "1460-1040-ND" 850 400 60 H I L CNN "Digi-Key_PN"
 F5 "TMC248-LA" 850 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 850 600 60 H I L CNN "Category"
 F7 "PMIC - Motor Drivers, Controllers" 850 700 60 H I L CNN "Family"
-F8 "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC248_datasheet.pdf" 850 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Trinamic%20Motion%20Control%20PDFs/TMC248_Rev1.01_Mar26,2013.pdf" 850 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/trinamic-motion-control-gmbh/TMC248-LA/1460-1040-ND/4399649" 850 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MTR DRVR BIPOLAR 3-5.5V 28QFN" 850 1000 60 H I L CNN "Description"
 F11 "Trinamic Motion Control GmbH" 850 1100 60 H I L CNN "Manufacturer"
-F12 "Active NonStock" 850 1200 60 H I L CNN "Status"
+F12 "Last Time Buy NonStock" 850 1200 60 H I L CNN "Status"
 DRAW
 S -450 700 450 -700 0 1 0 f
 X AGND 1 -75 -800 100 U 25 25 1 1 U
@@ -1640,12 +1640,12 @@ DEF TMC5160-TA IC 0 40 Y Y 1 F N
 F0 "U" 0 -50 40 H V C C N N
 F1 "TMC5160-TA" 0 50 40 H V C C N N
 F2 "trinamic-footprints:eTQFP48" 850 200 60 H I L C N N
-F3 "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC5160_Datasheet_V1.01.pdf" 850 300 60 H I L C N N
+F3 "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC5160_Datasheet_Rev1.06.pdf" 850 300 60 H I L C N N
 F4 "1460-1249-ND" 850 400 60 H I L CNN "Digi-Key_PN"
 F5 "TMC5160-TA" 850 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 850 600 60 H I L CNN "Category"
 F7 "PMIC - Motor Drivers, Controllers" 850 700 60 H I L CNN "Family"
-F8 "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC5160_Datasheet_V1.01.pdf" 850 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC5160_Datasheet_Rev1.06.pdf" 850 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/trinamic-motion-control-gmbh/TMC5160-TA/1460-1249-ND/8440396" 850 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MTR DRVR BIPOLAR 8-60V 48TQFP" 850 1000 60 H I L CNN "Description"
 F11 "Trinamic Motion Control GmbH" 850 1100 60 H I L CNN "Manufacturer"
