@@ -19,6 +19,11 @@ This is an early release to help refine what this library to going be and solici
 
 The usable libraries are grouped by supplier and located in the `<supplier>-footprints.pretty/` and `<supplier>-symbols/` folders.  Alternatively, there is a consolidated library in each supplier folder named `<supplier>.lib`.  There is also an accompanying HTML page for each library located in `docs` with a table containing all the included items and metadata that can be browsed outside of KiCad.
 
+## Installation
+For instructions on how to install/import please see this Digi-Key TechForum post:
+
+[Importing the Digi-Key KiCad Library into KiCad 5.0.0+](https://forum.digikey.com/t/importing-the-digi-key-kicad-library-into-kicad-5-0-0/4075)
+
 ## digikey-kicad-library vs digikey-partner-kicad-library
 The primary difference between this Partner library and the [original library](https://github.com/digikey/digikey-kicad-library) is in the curation.  The digikey-kicad-library is curated by the Digi-Key Applications Engineering team.  The digikey-partner-kicad-library contains any libraries submitted by Digi-Key's suppliers and compiled into the same format as the Digi-Key library.
 
