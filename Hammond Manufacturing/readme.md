@@ -17,7 +17,7 @@ After cloning the Digi-Key Partners KiCad Library into your favorite location th
 ![image|291x93](https://aws1.discourse-cdn.com/digikey/original/2X/5/5c47521ffd27090f897a77bab917aa2d0d30c353.png) 
 3. Click on the ***User Templates*** tab.<br>
 ![image|258x93](https://aws1.discourse-cdn.com/digikey/original/2X/1/181b2417aa039e91a76234910276af068ce52e6f.png) 
-4. Click on ***Browse*** in the lower left hand of the Project Template Selector window.<br>
+4. Click on ***Browse*** in the lower right hand of the Project Template Selector window.<br>
 ![image|246x102](https://aws1.discourse-cdn.com/digikey/original/2X/3/31c9d5fa64f8e56ccee43ecd62b34376fad548a3.png) 
 5. Navigate to the location where you stored the clone of ***digikey-partner-kicad-library***. Then into ***Hammond Manufacturing\Box Templates***. <br>
 
