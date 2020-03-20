@@ -3,7 +3,7 @@ Hammond Manufacturing Template Library
 
 The Hammond Manufacturing Template Library is a comprehensive collection of board outlines in KiCad project template form to aid in the design of projects that fit in Hammond Manufacturing enclosures.<br>
 
-![image|371x206](https://github.com/Reid-L/digikey-partner-kicad-library/blob/master/Hammond%20Manufacturing/Box%20Templates/1553T/1553TT/meta/brd.PNG?raw=true)
+<img src="https://github.com/Reid-L/digikey-partner-kicad-library/blob/master/Hammond%20Manufacturing/Box%20Templates/1553T/1553TT/meta/brd.PNG?raw=true" width="750"><img src="https://www.hammfg.com/files/products/1553t/1553t-pair.jpg">
 
 
 After cloning the Digi-Key Partners KiCad Library into your favorite location there are two methods for using this template library:
